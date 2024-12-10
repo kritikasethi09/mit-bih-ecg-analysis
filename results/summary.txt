@@ -1,0 +1,7 @@
+Average number of flat lines per file: 8589.00
+Average duration of flat segments: 11.65 ms
+Overall Min Duration: 11.11 ms
+Overall Max Duration: 738.89 ms
+Average amplitude of flat segments: -0.43
+Overall Min Magnitude: -5.12
+Overall Max Magnitude: 5.12

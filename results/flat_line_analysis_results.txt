@@ -1,0 +1,382 @@
+
+Record 100:
+Total flat segments: 14225
+Total flat segments > 10ms: 14225
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.59 ms
+Longest flat segment: 27.78 ms
+Shortest flat segment: 11.11 ms
+
+Record 101:
+Total flat segments: 12994
+Total flat segments > 10ms: 12994
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.63 ms
+Longest flat segment: 25.00 ms
+Shortest flat segment: 11.11 ms
+
+Record 102:
+Total flat segments: 13273
+Total flat segments > 10ms: 13273
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.63 ms
+Longest flat segment: 25.00 ms
+Shortest flat segment: 11.11 ms
+
+Record 103:
+Total flat segments: 11958
+Total flat segments > 10ms: 11958
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.60 ms
+Longest flat segment: 25.00 ms
+Shortest flat segment: 11.11 ms
+
+Record 104:
+Total flat segments: 11960
+Total flat segments > 10ms: 11960
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.62 ms
+Longest flat segment: 25.00 ms
+Shortest flat segment: 11.11 ms
+
+Record 105:
+Total flat segments: 9438
+Total flat segments > 10ms: 9438
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.58 ms
+Longest flat segment: 25.00 ms
+Shortest flat segment: 11.11 ms
+
+Record 106:
+Total flat segments: 6705
+Total flat segments > 10ms: 6705
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.45 ms
+Longest flat segment: 25.00 ms
+Shortest flat segment: 11.11 ms
+
+Record 107:
+Total flat segments: 5370
+Total flat segments > 10ms: 5370
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.60 ms
+Longest flat segment: 25.00 ms
+Shortest flat segment: 11.11 ms
+
+Record 108:
+Total flat segments: 9235
+Total flat segments > 10ms: 9235
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.60 ms
+Longest flat segment: 25.00 ms
+Shortest flat segment: 11.11 ms
+
+Record 109:
+Total flat segments: 10111
+Total flat segments > 10ms: 10111
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.59 ms
+Longest flat segment: 27.78 ms
+Shortest flat segment: 11.11 ms
+
+Record 111:
+Total flat segments: 7476
+Total flat segments > 10ms: 7476
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.43 ms
+Longest flat segment: 30.56 ms
+Shortest flat segment: 11.11 ms
+
+Record 112:
+Total flat segments: 15420
+Total flat segments > 10ms: 15420
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.80 ms
+Longest flat segment: 25.00 ms
+Shortest flat segment: 11.11 ms
+
+Record 113:
+Total flat segments: 7004
+Total flat segments > 10ms: 7004
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.39 ms
+Longest flat segment: 25.00 ms
+Shortest flat segment: 11.11 ms
+
+Record 114:
+Total flat segments: 7884
+Total flat segments > 10ms: 7884
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.42 ms
+Longest flat segment: 30.56 ms
+Shortest flat segment: 11.11 ms
+
+Record 115:
+Total flat segments: 17131
+Total flat segments > 10ms: 17131
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.81 ms
+Longest flat segment: 25.00 ms
+Shortest flat segment: 11.11 ms
+
+Record 116:
+Total flat segments: 8934
+Total flat segments > 10ms: 8930
+Total flat segments > 100ms: 4
+Average duration of flat segments: 11.90 ms
+Longest flat segment: 738.89 ms
+Shortest flat segment: 11.11 ms
+
+Record 117:
+Total flat segments: 11052
+Total flat segments > 10ms: 11052
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.60 ms
+Longest flat segment: 22.22 ms
+Shortest flat segment: 11.11 ms
+
+Record 118:
+Total flat segments: 6770
+Total flat segments > 10ms: 6770
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.57 ms
+Longest flat segment: 27.78 ms
+Shortest flat segment: 11.11 ms
+
+Record 119:
+Total flat segments: 9642
+Total flat segments > 10ms: 9642
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.60 ms
+Longest flat segment: 25.00 ms
+Shortest flat segment: 11.11 ms
+
+Record 121:
+Total flat segments: 17224
+Total flat segments > 10ms: 17224
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.78 ms
+Longest flat segment: 27.78 ms
+Shortest flat segment: 11.11 ms
+
+Record 122:
+Total flat segments: 8473
+Total flat segments > 10ms: 8473
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.57 ms
+Longest flat segment: 27.78 ms
+Shortest flat segment: 11.11 ms
+
+Record 123:
+Total flat segments: 11683
+Total flat segments > 10ms: 11683
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.62 ms
+Longest flat segment: 25.00 ms
+Shortest flat segment: 11.11 ms
+
+Record 124:
+Total flat segments: 16284
+Total flat segments > 10ms: 16284
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.79 ms
+Longest flat segment: 22.22 ms
+Shortest flat segment: 11.11 ms
+
+Record 201:
+Total flat segments: 17227
+Total flat segments > 10ms: 17227
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.71 ms
+Longest flat segment: 30.56 ms
+Shortest flat segment: 11.11 ms
+
+Record 202:
+Total flat segments: 7870
+Total flat segments > 10ms: 7870
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.44 ms
+Longest flat segment: 27.78 ms
+Shortest flat segment: 11.11 ms
+
+Record 203:
+Total flat segments: 5258
+Total flat segments > 10ms: 5258
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.47 ms
+Longest flat segment: 27.78 ms
+Shortest flat segment: 11.11 ms
+
+Record 204:
+An error occurred with record 204: [Errno 2] No such file or directory: '/Users/kritikasethi/Downloads/mit-bih-arrhythmia-database-1.0.0/204.hea'
+
+Record 205:
+Total flat segments: 20343
+Total flat segments > 10ms: 20343
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.88 ms
+Longest flat segment: 30.56 ms
+Shortest flat segment: 11.11 ms
+
+Record 206:
+An error occurred with record 206: [Errno 2] No such file or directory: '/Users/kritikasethi/Downloads/mit-bih-arrhythmia-database-1.0.0/206.hea'
+
+Record 207:
+Total flat segments: 9643
+Total flat segments > 10ms: 9643
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.52 ms
+Longest flat segment: 25.00 ms
+Shortest flat segment: 11.11 ms
+
+Record 208:
+Total flat segments: 6210
+Total flat segments > 10ms: 6210
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.43 ms
+Longest flat segment: 25.00 ms
+Shortest flat segment: 11.11 ms
+
+Record 209:
+Total flat segments: 7880
+Total flat segments > 10ms: 7880
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.53 ms
+Longest flat segment: 27.78 ms
+Shortest flat segment: 11.11 ms
+
+Record 211:
+An error occurred with record 211: [Errno 2] No such file or directory: '/Users/kritikasethi/Downloads/mit-bih-arrhythmia-database-1.0.0/211.hea'
+
+Record 212:
+Total flat segments: 5598
+Total flat segments > 10ms: 5598
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.45 ms
+Longest flat segment: 25.00 ms
+Shortest flat segment: 11.11 ms
+
+Record 213:
+Total flat segments: 5808
+Total flat segments > 10ms: 5808
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.63 ms
+Longest flat segment: 27.78 ms
+Shortest flat segment: 11.11 ms
+
+Record 214:
+Total flat segments: 6586
+Total flat segments > 10ms: 6586
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.46 ms
+Longest flat segment: 25.00 ms
+Shortest flat segment: 11.11 ms
+
+Record 215:
+Total flat segments: 5864
+Total flat segments > 10ms: 5864
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.47 ms
+Longest flat segment: 27.78 ms
+Shortest flat segment: 11.11 ms
+
+Record 216:
+An error occurred with record 216: [Errno 2] No such file or directory: '/Users/kritikasethi/Downloads/mit-bih-arrhythmia-database-1.0.0/216.hea'
+
+Record 217:
+Total flat segments: 5791
+Total flat segments > 10ms: 5791
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.43 ms
+Longest flat segment: 27.78 ms
+Shortest flat segment: 11.11 ms
+
+Record 218:
+An error occurred with record 218: [Errno 2] No such file or directory: '/Users/kritikasethi/Downloads/mit-bih-arrhythmia-database-1.0.0/218.hea'
+
+Record 219:
+Total flat segments: 14335
+Total flat segments > 10ms: 14335
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.80 ms
+Longest flat segment: 30.56 ms
+Shortest flat segment: 11.11 ms
+
+Record 221:
+Total flat segments: 7647
+Total flat segments > 10ms: 7647
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.44 ms
+Longest flat segment: 25.00 ms
+Shortest flat segment: 11.11 ms
+
+Record 222:
+Total flat segments: 8471
+Total flat segments > 10ms: 8471
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.47 ms
+Longest flat segment: 27.78 ms
+Shortest flat segment: 11.11 ms
+
+Record 223:
+Total flat segments: 14473
+Total flat segments > 10ms: 14473
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.84 ms
+Longest flat segment: 25.00 ms
+Shortest flat segment: 11.11 ms
+
+Record 224:
+An error occurred with record 224: [Errno 2] No such file or directory: '/Users/kritikasethi/Downloads/mit-bih-arrhythmia-database-1.0.0/224.hea'
+
+Record 225:
+An error occurred with record 225: [Errno 2] No such file or directory: '/Users/kritikasethi/Downloads/mit-bih-arrhythmia-database-1.0.0/225.hea'
+
+Record 226:
+An error occurred with record 226: [Errno 2] No such file or directory: '/Users/kritikasethi/Downloads/mit-bih-arrhythmia-database-1.0.0/226.hea'
+
+Record 227:
+An error occurred with record 227: [Errno 2] No such file or directory: '/Users/kritikasethi/Downloads/mit-bih-arrhythmia-database-1.0.0/227.hea'
+
+Record 228:
+Total flat segments: 8196
+Total flat segments > 10ms: 8196
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.52 ms
+Longest flat segment: 25.00 ms
+Shortest flat segment: 11.11 ms
+
+Record 229:
+An error occurred with record 229: [Errno 2] No such file or directory: '/Users/kritikasethi/Downloads/mit-bih-arrhythmia-database-1.0.0/229.hea'
+
+Record 231:
+Total flat segments: 16354
+Total flat segments > 10ms: 16354
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.83 ms
+Longest flat segment: 25.00 ms
+Shortest flat segment: 11.11 ms
+
+Record 232:
+Total flat segments: 15762
+Total flat segments > 10ms: 15762
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.80 ms
+Longest flat segment: 25.00 ms
+Shortest flat segment: 11.11 ms
+
+Record 233:
+Total flat segments: 9561
+Total flat segments > 10ms: 9561
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.76 ms
+Longest flat segment: 30.56 ms
+Shortest flat segment: 11.11 ms
+
+Record 234:
+Total flat segments: 14683
+Total flat segments > 10ms: 14683
+Total flat segments > 100ms: 0
+Average duration of flat segments: 11.76 ms
+Longest flat segment: 25.00 ms
+Shortest flat segment: 11.11 ms
