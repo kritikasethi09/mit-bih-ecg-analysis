@@ -1,0 +1,3 @@
+[submodule "ecg_qrs_detection"]
+	path = ecg_qrs_detection
+	url = https://git.umms.med.umich.edu/mcircc/projects/ecg-analysis/ecg_qrs_detection.git
